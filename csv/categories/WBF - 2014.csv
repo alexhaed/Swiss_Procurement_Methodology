@@ -1,0 +1,26 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,GS-WBF,BLW,Agroscope,BWL,BWO,WEKO,ZIVI,SECO,ISCeco,SAS,KTI,SBFI
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,2,Textilien und Bekleidung,,,100068.75,,,,4389.8,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie",,,1501962.2,,,51.02,,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,4,"Maschinen, Rüstungsgüter und Verteidigungseinr. inkl. W+R",,59.9,4580522.68,,,,,10415.35,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,4.2,Maschinen und Apparate,,59.9,4580522.68,,,,,10415.35,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,2536130.48,,,,,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,6,Transport-DL (Güter- und Personentransporte) sowie Hotels,81258.76,362604.39,1287344.49,32831.37,43969.85,96985.77,1777581.23,1719707.07,25836.93,107163.07,107707.1,802993.3
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl. W+R",,22.95,725025.94,702.2,,,,6226.6,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger des Bundes",2749.5,158969.52,58409.01,,6033.55,1645.65,4389.2,222097.91,,25976.3,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,10,"Büromatik, inkl. Präsentationstechnik, Zubehör inkl. W+R",,361.75,7635.25,,,116959.8,,870.9,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl. W+R,,,73110.23,,,,,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,13,Bürobedarf inkl. Papier und EDV-Verbrauchsmaterial inkl. W+R,,2472.16,73525.71,,3531.75,1796.28,1737.75,2643.1,,855.7,,148.3
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,31721.8,117586.85,425207.49,12058.15,36924.9,21255.7,289926.25,251944.81,2393,,13287.6,247264.86
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,15,Informatik und Telekommunikationsmittel inkl. W+R,11407469.46,2851160.2,1078752.25,845690.9,80577.84,95130.46,1983559.25,3182782.48,940154.62,,342471.15,273237.75
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,15.1,Hardware,1327852.18,2448.95,598336.74,123.25,1039.39,29521,17899.7,,287559.2,,,10003.4
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,15.2,Software inkl. Lizenzen,38239.93,764702.38,172693.27,,47096.25,17287.21,1963848.4,,40525.2,,29377.08,3016
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,15.3,Telekommunikation,,,,845567.65,,,,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,15.4,SW-Pflege und HW Wartung,10041377.35,2084008.87,307722.24,,32442.2,48322.25,1811.15,3182782.48,612070.22,,313094.07,260218.35
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18,Dienstleistungen,1825713.22,23301741.09,6867181.96,312026.73,691089.5,40269.1,5952368.93,9534019.6,7211139.22,1766038.54,3448763.78,14964137.37
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18.1,Allg. Beratungs-DL im Fachbereich eines Amtes und Honorare,333679.65,7717299.59,5259476.77,269208.95,423781.1,6030.25,85207.19,5363783.33,84115.4,1741574.54,2197531.65,11423789.45
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18.2,Informatik-DL exkl. Personalverleih im Bereich IKT,1435163.85,11842057.4,981934.74,20638.2,100193.2,2000,1477237.54,3056914.6,6938476.58,,1238284.03,492962.72
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18.3,Beratungs-DL für Management und Organisation sowie Coaching,54173.32,3373119.14,302858.93,6405.38,20236.6,26413.85,4340874.17,521120.36,188547.24,19630,8984.9,1882365.85
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18.4,Informationsarbeit,,298839.61,,,107969.15,,12992.15,,,,,843688.4
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,2696.4,70425.35,322911.52,15774.2,38909.45,5825,36057.88,592201.31,,4834,3963.2,321330.95
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,19,Zivile Bauten,,30286,1567645.9,,20557.35,46.5,7774,,,,,
+WBF,"Eidgenössisches Departement für Wirtschaft, Bildung und Forschung",2014,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur",142685.74,365825.04,4702233.28,25171.28,74741.59,76365.37,144193.75,995884.35,28412.44,43383.76,323545.01,2569780.84

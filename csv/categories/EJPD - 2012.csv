@@ -1,0 +1,31 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,ISC-EJPD,ESBK,GS-EJPD,BJ,fedpol,SIR,METAS,BFM
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,1,Nahrungsmittel und Getränke,12731.9,6271.3,,23348.4,26742.75,,34162.86,8262870.16
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,2,Textilien und Bekleidung,,,,,11693.25,,10401.5,111163.75
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie",,,,,,,186948.09,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,4,"Maschinen, Rüstungsgüter und Verteidigungseinr. inkl. W+R1)",,,,,1462937.15,,3842638.77,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,,,5527.45,,72208.16,200617.35
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,6,Transport-DL (Güter- und Personentransporte) sowie Hotels,63958.24,50608.78,34822.35,243280.51,1124363.24,35499.53,220999.55,14384813.23
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl. W+R1)",,,,,305464.93,,137841.51,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,8,Güter und DL im Zusammenh. mit Sport und Erholung inkl. W+R1),,,,,,,4480,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger des Bundes",20852.6,13437.2,34370.5,31145.7,114290.54,1228630.05,75839.88,121409
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,10,"Büromatik, inkl. Präsentationstechnik, Zubehör inkl. W+R1)",,,,,,,,5359.4
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl. W+R1),,,,,,,,481165.14
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,13,Bürobedarf inkl. Papier und EDV-Verbrauchsmaterial inkl. W+R1),,,,3026,34997.25,7133.9,61364.43,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,49993.05,10369.1,38656.9,549477.96,127402.25,14508.6,88480.75,1791106.05
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,15,Informatik und Telekommunikationsmittel inkl. W+R1),9420413.42,31279.65,2585728.82,2231012.95,1047913.98,190574.8,1602537.84,2534933.05
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,15.1,Hardware,1819851.41,23501.95,10919.9,,1027171.45,101945.45,593036.49,76996.97
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,15.2,Software inkl. Lizenzen,2904928.78,7777.7,2457088.92,2231012.95,9905,82331.35,786831.58,2432702.08
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,15.3,Telekommunikation,57146,,,,9055.13,,1966.2,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,15.4,SW-Pflege und HW Wartung,4638487.23,,117720,,1782.4,6298,220703.57,25234
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,17,"DL, notwendig für  Bereitst., Betrieb, Unterhalt der Güter",1950.35,,,,1057942.26,,38651.82,119593.76
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18,Dienstleistungen,25831430.8,133150.6,5123812.65,891598.74,7439070.93,193997.52,1029152.17,34548858.22
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18.1,Allg. Beratungs-DL im Fachbereich eines Amtes und Honorare,,70846.35,52995.05,461435.74,4149276.21,118587.62,71585.2,4316536.1
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18.2,Informatik-DL exkl. Personalverleih im Bereich IKT,25496207.94,5179.5,4324244.55,18403.2,2608927.65,,513635.15,9632162.42
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18.3,Beratungs-DL für Management und Organisation sowie Coaching,335222.86,52289.1,735116.3,94951.72,618862.1,73219.9,305611.97,19908975.32
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18.4,Informationsarbeit,,,9352.35,,,,88383.6,207185.44
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,,4835.65,2104.4,316808.08,62004.97,2190,49936.25,483998.94
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,19,Zivile Bauten,8454.8,,,67094.6,68467.2,17337.18,263477.46,25573122.44
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,19.1,"Zivile Bauten, Honorare ohne weitere Bauleistungen",,,,,17754.2,,,
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,19.2,"Zivile Bauten, Bauleistungen inkl.Honorare",,,,,3784.95,,259223.4,53900
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,19.4,"Zivile Bauten, Betrieb Immobilien",8454.8,,,67094.6,46928.05,17337.18,4254.06,25519222.44
+EJPD,Eidgenössisches Justiz- und Polizeidepartement,2012,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur",384126.76,56774.33,250140.07,333191.83,1638759.52,85097.62,792959.38,4609433.26

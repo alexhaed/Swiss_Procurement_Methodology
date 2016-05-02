@@ -1,0 +1,29 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,GS-EDI,EBG,BAR,BAK,MeteoSchweiz,BAG,BFS,BSV,SBF,NB
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,1,Nahrungsmittel und Getränke,,31111,,16735.97,,22752,,,,655
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,2,Textilien und Bekleidung,,,,,726.1,,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie ",,,,75805.95,394.85,,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,4,"Rüstungsgüter, Waffen, Schutz-/Verteidigungseinr inkl W+R1) .",,,36269.8,57178.4,2894238.12,876048.07,,60.25,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,4.2,Maschinen und Apparate,,,36269.8,57178.4,2894238.12,876048.07,,60.25,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,,,4395.6,405216.19,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,6,Transport-DL und Leistungen der Bundesreisezentrale,59466.5,11587.15,79813.65,349355.61,116926.93,668355.2,615602.42,239344.75,400792.67,108163.3
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl W+R1) .",,,,,,8741.2,34370.6,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger ",30832.17,25256.58,7932.35,180691.8,362793.3,387017.86,90133.14,6542.95,33128.49,1736570.24
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,10,"Büromatik, inkl Präsentationstechnik, Zubehör inkl W+R1) ..",,,,273.05,35480.76,,1908.35,,,830
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,11,Kopiertechnik inkl. Wartung und Reparatur,,,,30.75,,,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl W+R1) .,,,,,29160,,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,13,Bürobedarf inkl. Papier und EDV-Verbrauchsmaterial inkl W+R1),,,9512.46,,5593.48,,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,27937.2,20981.95,14271.95,495461.43,238606.05,271664.35,2205932.7,7548.9,71864.9,46.05
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,15,Informatik und Telekommunikationsmittel inkl W+R1) .,,3288.6,60348.85,392296.77,2837220.5,695120.47,2558446.61,175083.81,71023.4,83772.53
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,15.1,Hardware,,,1510.15,521,1559596.87,16674.15,106,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,15.2,Software,,,48020.88,572.45,287217.47,55366.75,14661.15,,29778.3,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,15.3,Telekommunikation,,,,,289022.68,,2140.85,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,15.4,SW-Pflege und HW Wartung,,3288.6,10817.82,391203.32,701383.48,623079.57,2541538.61,175083.81,41245.1,83772.53
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,17,"DL, notwendig für Bereitst., Betrieb, Unterhalt der Güter ",,,,396731.16,2284914.53,301.05,,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18,Dienstleistungen,1073663.2,666711.05,2446820.86,2753774.89,2795432.74,29511026.57,34496833.31,848456.33,861003.75,1847866.11
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18.1,Allgemeine Beratungs-Dienstleistung,,516354.25,,1294946.56,41501.28,11357828.17,21578653.02,282933.8,34467.2,870402.33
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18.2,Informatikdienstleistungen,534973.5,13662,1665965.35,121651.4,1813378.17,1763298.75,4271822.86,12654,379422.7,352061.16
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18.3,"Betriebswirt. Beratungs-DL (Mgmt.beratung, Org. und Coach.) ",538689.7,4873,79694.85,1192632.93,887106.76,10297129.8,8232951.49,515811.39,306995.77,615887.72
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18.4,Öffentlichkeitsarbeit und Kampagnen,,,,21703.58,18787.15,6044937.3,,,,9514.9
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,,131821.8,701160.66,122840.42,34659.38,47832.55,413405.94,37057.14,140118.08,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,19,Zivile Bauten,,,12457,,97514.69,361844.4,405677.3,,,
+EDI,Eidgenössisches Departement des Innern,2011,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur ",189146.38,7650.4,252207.45,1386723.42,3404331.7,1460945.11,72959.81,3777870.61,415119.97,1392746.91

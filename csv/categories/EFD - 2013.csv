@@ -1,0 +1,30 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,GS-EFD,EFV,ZAS,swissmint,ESTV,EZV,BIT,EFK,EPA,BBL,SIF,ISB
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,1,Nahrungsmittel und Getränke,,,,,,8775.05,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,2,Textilien und Bekleidung,,,,,,2093603.78,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie",,,,,,1810743.32,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,4,"Maschinen, Rüstungsgüter und Verteidigungseinr. inkl. W+R",,,,2004701.32,,14518415.32,,,,855906.05,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,,,,1343961.69,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,6,Transport-DL (Güter- und Personentransporte) sowie Hotels,78633.21,132386.44,244338.87,10380.85,1128987.99,3647327.72,654757.06,212343.26,55306.2,2425220.78,559863.89,124343.19
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl. W+R",,,,,,2296986.06,76646.15,,,141580.12,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,8,Güter und DL im Zusammenh. mit Sport und Erholung inkl. W+R,,,,,,182367.53,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger des Bundes",,,,19853.29,,,,9098.95,,35176250.72,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,10,"Büromatik, inkl. Präsentationstechnik, Zubehör inkl. W+R",,,,,,15047.86,10052.76,,,7817464.37,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,11,Kopiertechnik inkl. Wartung und Reparatur,,,,,,61740.61,,,,13047937.49,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl. W+R,1933.2,,42916.95,,,35656.57,138008.5,,,23069478.84,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,13,Bürobedarf inkl. Papier und EDV-Verbrauchsmaterial inkl. W+R,,,,576105.41,,588901.12,10340.65,28901.5,,14667997.16,244.75,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,49152.25,335967.2,2252089.7,207267.6,2074017.45,5170108.01,32015.4,16580.75,338173.1,9438387.57,3191.3,6757.55
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,15,Informatik und Telekommunikationsmittel inkl. W+R,448893.19,1436496.8,858999.67,7217.1,312254.95,4608804.01,73216634.32,329327.75,201248.68,122009756.97,40808.1,265930.69
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,15.1,Hardware,321447.55,,251343.3,,3309.1,541472.91,13203112.82,50518.85,,18725396.88,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,15.2,Software inkl. Lizenzen,9180,,152928.72,7217.1,307541.85,2962080.49,462689.52,1711.34,12575.85,27714568.73,40419.3,52580
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,15.3,Telekommunikation,,,,,,237069.32,54260759.05,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,15.4,SW-Pflege und HW Wartung,118265.64,1436496.8,454727.65,,1404,868181.29,5290072.93,277097.56,188672.83,75569791.36,388.8,213350.69
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,16,IT- und Telko-Mittel für Führungs- und Einsatzsyst der Armee,,,,,,11974028.34,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,17,"DL, notwendig für  Bereitst., Betrieb, Unterhalt der Güter",,,72048.95,,,1783754.28,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18,Dienstleistungen,2594553.63,3577250.53,16640556.58,696065.24,3763393.91,8637193.48,70082485.1,1126615.08,3788697.84,4484080.86,130384.68,10093983.82
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18.1,Allg. Beratungs-DL im Fachbereich eines Amtes und Honorare,587516.65,1046631.64,1630535.37,49428.6,709624.54,4680080.49,,870937.1,1006952.45,2198218.54,6751.35,35116.2
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18.2,Informatik-DL exkl. Personalverleih im Bereich IKT,288730.15,2394346.09,12476294.63,,2781957.76,2401651.45,68594720.61,996,1097661.09,1644184.8,79372.5,10033226.42
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18.3,Beratungs-DL für Management und Organisation sowie Coaching,133628.7,136272.8,824475.61,280118.85,254442.45,798633.66,1487764.49,254681.98,1681897.3,641677.52,25699.1,22491.2
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18.4,Informationsarbeit,,,,366517.79,,754752.13,,,,,,
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,1584678.13,,1709250.97,,17369.16,2075.75,,,2187,,18561.73,3150
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,19,Zivile Bauten,,15248.5,4046699.88,98744.3,36459.15,32282983.62,80055,,,403236565.59,,44823.8
+EFD,Eidgenössisches Finanzdepartement,2013,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur",254206.21,167810.77,271080.55,7086064.95,342716.35,2241100.57,1519799.86,277765.23,5054496.48,425017.89,57718.86,239284.29

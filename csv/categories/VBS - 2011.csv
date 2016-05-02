@@ -1,0 +1,31 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,swisstopo,ar Beschaffung,ar Rüstung,ar Immo,ar W+T,BASPO,BABS,GS-VBS,V
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,0,Non disponible,0,0,0,0,0,0,0,0,0
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,1,Nahrungsmittel und Getränke,62041.3,96554.51,539.8,,,3351890.85,26623.33,2956.55,9387842.43
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,2,Textilien und Bekleidung,1856.45,9047263.95,59343968.74,,,314990.64,7996.7,,3695018.5
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie ",30821.58,,826633.49,,68607,199274.55,9707.23,,39597793.65
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,4,"Rüstungsgüter, Waffen, Schutz /Verteidigungseinr inkl W+R 1) -.",611027.05,1537868.56,351234958.43,,1520204.53,867801.13,76427.3,,75060370.56
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,5447242.95,,,,814.3,,6008988.34
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,6,Transport-DL und Leistungen der Bundesreisezentrale,239125.1,1554489.98,1463659.54,,,3050,12592.2,76.24,22672909.88
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl W+R 1) .",10078.7,8182112.65,325513599.58,,,335983.3,35580,8800369.19,49195084.74
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,8,Güter und DL im Zusammenh mit Sport und Erholung inkl W+R 1) .,,,1431911.58,,,705478.19,,,91354.6
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger ",26333.96,,62312.7,1613,,552748.92,21917.29,1600987.96,789993.58
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,10,"Büromatik, inkl. Präsentationstechnik, Zubehör inkl W+R 1) .",,84889.62,159361.4,,,125302.3,,283.45,5646311.54
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,11,Kopiertechnik inkl. Wartung und Reparatur,,,,,,317.65,,,
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl W+R 1) .,,305550.65,1207056.89,1706700.45,,441955.75,,,3536144.91
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,13,Bürobedarf inkl Papier und EDV-Verbrauchsmaterial inkl W+R 1) .,128135.63,,64800,,,55655,603.4,,238686.64
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,239784.9,121044.6,38642.85,,,182886.25,13092.35,132074.9,2086355.02
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,15,Informatik und Telekommunikationsmittel inkl W+R 1) .,740216.02,1886038.54,2792507.81,,177233.28,342921.44,3369178.51,114952.56,10167250.76
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,15.4,SW-Pflege und HW Wartung,740216.02,1886038.54,2792507.81,,177233.28,342921.44,3369178.51,114952.56,10167250.76
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,16,IT- und Telko-Mittel für Führungs- und Einsatzsyst der Armee,2303364.32,4840663.47,536295811,,235528.4,221364.14,4280077.85,95925.25,14887276.47
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,16.1,Aufklärungs- und Auswertesysteme,,30085.2,123243232.27,,,,48992.8,,157945.15
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,16.2,Führungs- und Informatiksysteme,2303364.32,4810578.27,174539179.28,,235528.4,221364.14,4231085.05,95925.25,14371259.57
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,16.3,Ausbildungssysteme (Simulatoren),,,238513399.45,,,,,,358071.75
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,17,"DL, notwendig für Bereitst., Betrieb, Unterhalt der Güter ",,7857341.24,135326658.03,627.15,,,20470.1,8396.6,78777117.1
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18,Dienstleistungen,3233077.96,4545917.03,67392808.78,3165821.6,997938.35,2518104.58,4058377.12,11011799.8,87057382.97
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18.1,Allgemeine Beratungs-Dienstleistung,1406203.85,277778.1,38552547.12,793078,,1448154,3966946.87,208589.95,6950942.43
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18.2,Informatikdienstleistungen,1509865.25,1826210.35,27091410.1,10165,,980293.95,66901.1,6035892.6,79932980.57
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18.3,"Betriebswirt. Beratungs-DL (Mgmt.beratung, Org. und Coach.) ",,2441928.58,1748851.56,2284453,997938.35,,15721.75,4505061.9,173459.97
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18.4,Öffentlichkeitsarbeit und Kampagnen,,,,78126,,215,,,
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,317008.86,,,,,89441.63,8807.4,262255.35,
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,20,Militärische Bauten,112257.25,201479.71,3331598.76,324093601.12,588159.07,3750402.18,786665.29,,184370646.45
+VBS,"Eidgenössisches Departement für Verteidigung, Bevölkerungsschutz und Sport",2011,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur ",15727525.99,2788451.11,59572386.06,6225897.1,160576.8,3460162.67,44298017.14,1838076.61,99635161.68

@@ -1,0 +1,29 @@
+dept,fullDept,year,idSupplier,supplier,idCategory,fullCategory,BAFU,ARE,GS-UVEK,BAV,BAZL,BFE,ASTRA,BAKOM,SUST,RegInfra
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,1,Nahrungsmittel und Getränke,,,,1135.5,,15711.96,,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,2,Textilien und Bekleidung,,,,5388.95,,415,3490.45,,13846.7,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,3,"Heizöl, Benzin, Treibstoffe, Chemie",,,,,199101.53,,38133.3,23806.55,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,4,"Maschinen, Rüstungsgüter und Verteidigungseinr. inkl. W+R1)",964252.57,,,772.2,,5691.03,353414,637791.72,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,4.2,Maschinen und Apparate,964252.57,,,772.2,,5691.03,353414,637791.72,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,5,Medizinische Produkte und Pharmabereich,,,,,,1500,,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,6,Transport-DL (Güter- und Personentransporte) sowie Hotels,1626204.59,56639.85,147821.93,938105.62,1907560.48,518786.37,570183.29,630140.36,54323.97,128988.74
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,7,"Kraftfahrzeuge, Fahrzeugteile, Transportmittel inkl. W+R1)",41273.9,,,,939140.38,,,3320,164683.55,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,9,"Publikationen, Drucksachen und Informationsträger des Bundes",,,,18487.1,,1354.35,,960.9,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,10,"Büromatik, inkl. Präsentationstechnik, Zubehör inkl. W+R1)",,,,,15064.43,,,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,12,Büro- und Raumausstattung zivile Verwaltung inkl. W+R1),,,,,,,17932.32,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,13,Bürobedarf inkl. Papier und EDV-Verbrauchsmaterial inkl. W+R1),,,,,1633.31,,,1044.3,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,14,Postdienstleistungen und diplomatischer Kurier,185257.61,25659.05,89932.95,130270.8,141176.4,173907.65,483490.3,100837.4,61434,32574.8
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,15,Informatik und Telekommunikationsmittel inkl. W+R1),1733621.24,97430.3,134347.15,311974.2,493552.86,,30290261.49,393080.58,4572.85,4159.2
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,15.1,Hardware,,,126063.3,17061.7,2499.15,,2580.2,24776.5,4572.85,4159.2
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,15.2,Software inkl. Lizenzen,58266.29,,8283.85,6761.7,16186.6,,26856502.82,49297.42,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,15.3,Telekommunikation,,,,,,,,6731.15,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,15.4,SW-Pflege und HW Wartung,1675354.95,97430.3,,288150.8,474867.11,,3431178.47,312275.51,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,17,"DL, notwendig für  Bereitst., Betrieb, Unterhalt der Güter",816465.44,,,,,4142.8,,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18,Dienstleistungen,41664534.72,4607387.66,1851167.62,4153032.91,5257207.05,47326492,22651151.48,2079008.55,2820687.18,491563.44
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18.1,Allg. Beratungs-DL im Fachbereich eines Amtes und Honorare,37339766.55,4083702.57,546799.77,2903174.23,3956428.46,41129811.24,14917164.74,744841.99,1960912.8,129225.4
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18.2,Informatik-DL exkl. Personalverleih im Bereich IKT,2075394.32,120276.45,1123179.19,685149.65,132701.07,507227.81,6908090.43,990226.35,16677,280751.05
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18.3,Beratungs-DL für Management und Organisation sowie Coaching,422354.28,50596.5,65501.45,273176.97,1168077.52,93924.91,276244.82,238272.16,843097.38,81586.99
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18.4,Informationsarbeit,742254.9,,,194187.1,,5391692.81,,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,18.5,Sprach- und Übersetzungsdienstleistungen,1084764.67,352812.14,115687.21,97344.96,,203835.23,549651.49,105668.05,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,19,Zivile Bauten,,28644.8,806.15,1473.05,,250,460692.15,282190.15,1865.4,3920.4
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,21,Bauten Nationalstrassen (ASTRA),,,,,,,1055251883.68,,,
+UVEK,"Eidgenössisches Departement für Umwelt, Verkehr, Energie und Kommunikation UVEK",2013,0,Unknown,22,"Keiner Kategorie zuordenbar, inkl Wartung und Reparatur",1911943.34,90801.53,173173.22,350900.45,1106710.74,3317496.39,4192644.5,388348.05,139318.41,444846.46
