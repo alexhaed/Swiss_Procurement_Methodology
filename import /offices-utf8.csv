@@ -1,0 +1,76 @@
+original;officeDe;fullOfficeDe;officeFr;fullOfficeFr;officeEn;fullOfficeEn
+Bundeskanzlei;BK;Bundeskanzlei;ChF;Chancellerie fédérale;FCh;Federal Chancellery
+1005 EDA;EDA;Eidgenössisches Departement für auswärtige Angelegenheiten;DFAE;Département fédéral des affaires étrangères;FDFA;Federal Department of Foreign Affairs
+1006 DEZA;DEZA;Direktion für Entwicklung und Zusammenarbeit;DDC;Direction du développement et de la coopération;SDC;Swiss Agency for Development and Cooperation
+1006 EDA;DEZA;Direktion für Entwicklung und Zusammenarbeit;DDC;Direction du développement et de la coopération;SDC;Swiss Agency for Development and Cooperation
+1097 Informatik EDA;IT EDA;Informatik EDA;IT DFAE;Informatique DFAE;FDFA-IT;IT FDFA
+1112 BRZ;BRZ;Bundesreisezentrale;CVC;Centrale des voyages de la Confédération;SGTC;Swiss Government Travel Centre
+BAG;BAG;Bundesamt für Gesundheit;OFSP;Office fédéral de la santé publique;FOPH;Federal Office of Public Health
+BAK;BAK;Bundesamt für Kultur;OFC;Office fédéral de la culture;FOC;Federal Office of Culture
+BAR;BAR;Schweizerisches Bundesarchiv;AFS;Archives fédérales suisses;SFA;Swiss Federal Archives
+BFS;BFS;Bundesamt für Statistik;OFS;Office fédéral de la statistique;FSO;Federal Statistical Office
+BLV;BLV;Bundesamt für Lebensmittelsicherheit und Veterinärwesen;OSAV;Office fédéral de la sécurité alimentaire et des affaires vétérinaires ;FSVO;Federal Food Safety and Veterinary Office
+BSV;BSV;Bundesamt für Sozialversicherungen;OFAS;Office fédéral des assurances sociales;FSIO;Federal Social Insurance Office
+BVET;BVET;Bundesamt für Veterinärwesen;OVF;Office vétérinaire fédéral;FVO;Federal Veterinary Office
+EBG;EBG;Eidgenössisches Büro für die Gleichstellung von Frau und Mann;BFEG;Bureau fédéral de l'égalité entre femmes et hommes ; FOGE;Federal Office for Gender Equality FOGE
+GS-EDI;GS-EDI;Generalsekretariat Innendepartement;SG-DFI;Secrétariat général DFI;GS-FDHA;General Secretariat FDHA
+IVI;IVI;Institut für Virologie und Immunologie;IVI;Institut de virologie et d'immunologie;IVI;Institute of Virology and Immunology
+MeteoSchweiz;MeteoSchweiz;Meteo Schweiz;MétéoSuisse;Office fédéral de météorologie et de climatologie;MeteoSwiss;Federal Office of Meteorology and Climatology
+NB;NB;Nationalbibliothek;BN;Bibliothèque nationale suisse;NL;Swiss National Library
+SBF;SBF;Staatssekretariat für Bildung und Forschung;SER;Secrétariat d'Etat à l'éducation et à la recherche;SER;State Secretariat for Education and Research
+BBL;BBL;Bundesamt für Bauten und Logistik;OFCL;Office fédéral des constructions et de la logistique;FOBL;Federal Office for Buildings and Logistics
+BIT;BIT;Bundesamt für Informatik und Telekommunikation;OFIT;Office fédéral de l’informatique et de la télécommunication;FOITT;Federal Office of Information Technology, Systems and Telecommunication
+EFK;EFK;Eidgenössische Finanzkontrolle;CDF;Contrôle fédéral des finances;SFAO;Swiss Federal Audit Office
+EFV;EFV;Eidgenössische Finanzverwaltung;AFF;Administration fédérale des finances;FFA;Federal Finance Administration
+EPA;EPA;Eidgenössisches Personalamt;OFPER;Office fédéral du personnel ;FOPER;Federal Office of Personnel
+ESTV;ESTV;Eidgenössische Steuerverwaltung;AFC;Administration fédérale des contributions;FTA;Federal Tax Administration
+EZV;EZV;Eidgenössische Zollverwaltung;AFD;Administration fédérale des douanes;SCA;Swiss Customs Administration
+GS-EFD;GS-EFD;Generalsekretariat Finanzdepartement;SG-DFF;Secrétariat général DFF;GS-FDF;General Secretariat FDF
+ISB;ISB;Informatiksteuerungsorgan Bund;UPIC;Unité de pilotage informatique de la Confédération;FITSU;Federal IT Steering Unit
+SIF;SIF;Staatssekretariat für internationale Finanzfragen;SFI;Secrétariat d'Etat aux questions financières internationales;SIF;State Secretariat for International Financial Matters
+swissmint;swissmint;swissmint;swissmint;swissmint;swissmint;swissmint
+ZAS;ZAS;Zentrale Ausgleichsstelle;CdC;Centrale de compensation;CCO;Central Compensation Office
+BFM;BFM;Bundesamt für Migration (heute Staatssekretariat);ODM;Office fédéral des migrations;FOM;Federal Office for Migration
+BJ;BJ;Bundesamt für Justiz;OFJ;Office fédéral de la justice;FOJ;Federal Office of Justice
+ESBK;ESBK;Eidgenössische Spielbankenkommission;CFMJ;Commission fédérale des maisons de jeu;FGB;Federal Gaming Board
+fedpol;fedpol;Bundesamt für Polizei;fedpol;Office fédéral de la police;fedpol;Federal Office of Police 
+GS-EJPD;GS-EJPD;Generalsekretariat Justiz- und Polizeidepartement;SG-DFJP;Secrétariat général DFJP;GS-FDJP;General Secretariat FDJP
+ISC-EJPD;ISC-EJPD;Informatik Service Center EJPD;CSI-DFJP;Centre de service informatique;ISC-FDJP;IT Service Center
+METAS;METAS;Eidgenössisches Institut für Metrologie;METAS;Institut fédéral de métrologie ;METAS;Federal Institute of Metrology
+SIR;SIR;Schweizerisches Institut für Rechtsvergleichung;ISDC;Institut suisse de droit comparé ;SICL;Swiss Institute of Comparative Law 
+ARE;ARE;Bundesamt für Raumentwicklung;ARE;Office fédéral du développement territorial;ARE;Federal Office for Spatial Development
+ASTRA;ASTRA;Bundesamt für Strassen;OFROU;Office fédéral des routes;FEDRO;Federal roads office
+BAFU;BAFU;Bundesamt für Umwelt;OFEV;Office fédéral de l'environnement;FOEN;Federal Office for the Environment
+BAKOM;BAKOM;Bundesamt für Kommunikation;OFCOM;Office fédéral de la communication;OFCOM;Federal Office of Communications
+BAV;BAV;Bundesamt für Verkehr;OFT;Office fédéral des transports;FOT;Federal Office of Transport
+BAZL;BAZL;Bundesamt für Zivilluftfahrt;OFAC;Office fédéral de l'aviation civile;FOCA;Federal Office of Civil Aviation
+BFE;BFE;Bundesamt für Energie;OFEN;Office fédéral de l'énergie ;SFOE;Swiss Federal Office of Energy 
+GS-UVEK;GS-UVEK;Generalsekretariat UVEK;SG-DETEC;Secrétariat général DETEC;GS-DETEC;General Secretariat DETEC
+RegInfra;RegInfra;Regulierungsbehörden Infrastruktur;RegInfra;Autorités de régulation des infrastructures ;RegInfra;Infrastructure Regulatory Authorities
+SUST;SUST;Schweizerische Unfalluntersuchungsstelle;SESE;Service suisse d'enquête de sécurité;STSB;Swiss Transportation Safety Investigation Board
+ar Beschaffung;ar Beschaffung;Armasuisse Beschaffungen;ar Acquisitions;Armasuisse Acquisitions;ar Procurement;Armasuisse Procurement
+ar Immo;ar Immo;Armasuisse Immobilien;ar Immobilier;Armasuisse Immobilier;ar Real Estate;Armasuisse Real Estate
+ar Rüstung;ar Rüstung;Armasuisse Rüstung;ar Armement;Armasuisse Armement;ar Procurement;Armasuisse Procurement
+ar W+T;ar W+T;Armasuisse Wissenschaft und Technologie;ar S+T;Armasuisse Sciences et technologies;ar S+T;Armasuisse Science and technology
+BABS;BABS;Bundesamt für Bevölkerungsschutz;OFPP;Office fédéral de la protection de la population;FOCP;Federal Office for Civil Protection
+BASPO;BASPO;Bundesamt für Sport;OFSPO;Office fédéral du sport;FOSPO;Federal Office of Sport
+GS-VBS;GS-VBS;Generalsekretariat VBS;SG-DDPS;Secrétariat Général du DDPS;GS-DDPS;General Secretariat DDPS
+swisstopo;swisstopo;swisstopo;swisstopo;swisstopo;swisstopo;swisstopo
+V;V;Verteidigung;V;Défense;V;Defence
+Agroscope;Agroscope;Agroscope;Agroscope;Agroscope;Agroscope;Agroscope
+BBT;BBT;Bundesamt für Berufsbildung und Technologie;OFFT;Office fédéral de la formation professionnelle et de la technologie;OPET;Federal Office for Professional Education and Technology
+BLV;BLV;Bundesamt für Lebensmittelsicherheit und Veterinärwesen;OSAV;Office fédéral de la sécurité alimentaire et des affaires vétérinaires;FSVO;Federal Food Safety and Veterinary Office
+BLW;BLW;Bundesamt für Landwirtschaft;OFAG;Office fédéral de l'agriculture;FOAG;Federal Office for Agriculture
+BVET;BVET;Bundesamt für Veterinärwesen;OVF;Office vétérinaire fédéral;FVO;Federal Veterinary Office
+BWL;BWL;Bundesamt für wirtschaftliche Landesversorgung;OFAE;Office fédéral pour l'approvisionnement économique du pays;FONES;Federal Office for National Economic Supply
+BWO;BWO;Bundesamt für Wohnungswesen;OFL;Office fédéral du logement;FOH;Federal Office for Housing
+GS-EVD;GS-WBF;Generalsekretariat WBF;SG-DEFR;Secrétariat général DEFR;GS-EAER;General Secretariat EAER
+GS-WBF;GS-WBF;Generalsekretariat WBF;SG-DEFR;Secrétariat général DEFR;GS-EAER;General Secretariat EAER
+ISCeco;ISCeco;Information Service Center WBF;ISCeco;Information Service Center DEFR;ISCeco;Information Service Center EAER
+IVI;IVI;Institut für Virologie und Immunologie;IVI;Institut de virologie et d'immunologie;IVI;Institute of Virology and Immunology
+KTI;KTI;Kommission für Technologie und Innovation;CTI;Commission pour la technologie et l'innovation;CTI;Commission for Technology and Innovation
+SAS;SAS;Schweizerische Akkreditierungsstelle;SAS;Service d'accréditation suisse;SAS;Swiss Accreditation Service
+SBFI;SBFI;Staatssekretariat für Bildung, Forschung und Innovation;SEFRI;Secrétariat d'Etat à la formation, à la recherche et à l'innovation;SERI;State Secretariat for Education, Research and Innovation
+SECO;SECO;Staatssekretariat für Wirtschaft;SECO;Secrétariat d'Etat à l'économie;SECO;State Secretariat for Economic Affairs
+WEKO;WEKO;Wettbewerbskommission;COMCO;Commission de la concurrence;COMCO;Competition Commission
+ZIVI;ZIVI;Vollzugsstelle für den Zivildienst;ZIVI;Organe d'exécution du service civil;ZIVI;Central Office for Civilian Service
