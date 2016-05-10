@@ -3,9 +3,8 @@
 ## Description
 This repo describes the data handling and methodology behind the Swiss federal administration procurements project. The project was published in English, German and French by swiss newspapers *Le Matin Dimanche* and *SonntagsZeitung*.
 
-You can see it live here:
-http://enquete.lematindimanche.ch/achats
-
+See it live here:
+http://enquete.lematindimanche.ch/achats  
 and here: http://dok.sonntagszeitung.ch/2016/beschaffungen
 
 The interactive data visualization was created with the help of *Datastory*. Its source code is available separately on [Florian Evéquoz's repository](https://github.com/evequozf/Swiss_Procurement-LeMatinDimanche).
@@ -49,7 +48,7 @@ Finally the script merges the combined-data for all the departments and outputs 
 The last department that sends us the data was the Department of Defense. And for security reasons, they don't want to disclose in which of the 22 categories their biggest suppliers are active. The problem was that the python script could not subtract the amounts of the 40 biggest suppliers from the categories data since we don't know to which category they belong. We solved that by adding a line to the 40 biggest suppliers data with negative amounts attributed to an unknown supplier.
 
 ## Get in touch
-You can contact us here: alexandre.haederli[at]lematindimanche.ch or on [twitter](https://twitter.com/alexhaederli)
+alexandre.haederli[at]lematindimanche.ch or on [twitter](https://twitter.com/alexhaederli)
 
 ## Licence
 [BSD](https://opensource.org/licenses/BSD-3-Clause) 
