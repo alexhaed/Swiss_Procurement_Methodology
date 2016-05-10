@@ -4,7 +4,9 @@
 This repo describes the data handling and methodology behind the Swiss federal administration procurements project. The project was published in English, German and French by swiss newspapers *Le Matin Dimanche* and *SonntagsZeitung*.
 
 You can see it live here:
-http://enquete.lematindimanche.ch/achats and here: http://dok.sonntagszeitung.ch/2016/beschaffungen
+http://enquete.lematindimanche.ch/achats
+
+and here: http://dok.sonntagszeitung.ch/2016/beschaffungen
 
 The interactive data visualization was created with the help of *Datastory*. Its source code is available separately on [Florian Evéquoz's repository](https://github.com/evequozf/Swiss_Procurement-LeMatinDimanche).
 
