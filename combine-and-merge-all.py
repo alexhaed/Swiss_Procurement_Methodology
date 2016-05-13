@@ -8,7 +8,7 @@ years_table = ["2011", "2012", "2013", "2014"] # list the avaiable years
 # removes previous output files
 files = os.listdir("combined/")
 for f in files:
-    os.remove(f)
+    os.remove("combined/"+f)
 
 for dept in dept_table: # this loop will apply for each department...
 	for year in years_table: # ... and for each year
