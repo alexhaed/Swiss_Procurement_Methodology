@@ -5,7 +5,7 @@ This repo describes the data handling and methodology behind the Swiss federal a
 
 You can see it live here:
 http://enquete.lematindimanche.ch/interactif/achats  
-and here: http://dok.sonntagszeitung.ch/interaktiv/beschaffungen
+and here: http://dok.sonntagszeitung.ch/interaktiv/beschaffungen/?lang=de
 
 The interactive data visualization was created with the help of *Datastory*. Its source code is available separately on [Florian Evéquoz's repository](https://github.com/evequozf/Swiss_Procurement-LeMatinDimanche).
 
