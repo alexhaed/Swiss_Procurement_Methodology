@@ -23,7 +23,7 @@ There is 22 main categories which are themselves sometimes divided into subcateg
 Beside the data with the 40 biggest suppliers, we asked the federal administration how much each office spent in total for each of the 22 categories from 2011 to 2014. That would indicate us which percentage of this global amount the 40 biggest suppliers represent. Once again, the data was delivered in PDF format, very similar to the 40 biggest suppliers data: [32 other files](pdf/categories).
 
 ## Scraping and cleaning
-We used [Tabula](http://tabula.technology/) to scrape the PDF. We found the Lattice method to be more accurate with our data. The cleaning was made in Google Spreadsheet: removing thousand separator, removing unnecessary total columns, etc.
+We used [Tabula](http://tabula.technology) to scrape the PDF. We found the Lattice method to be more accurate with our data. The cleaning was made in Google Spreadsheet: removing thousand separator, removing unnecessary total columns, etc.
 
 At this stage we have one CSV for each department and each year for the [40 biggest suppliers](csv/biggest) and the same for the [overall categories](csv/categories) data.
 
